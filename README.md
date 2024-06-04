@@ -36,11 +36,11 @@ I am a MERN stack developer with experience in:
 
 ### GitHub Stats
 
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&token=${{ secrets.GH_TOKEN }})
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dcodner24&show_icons=true&theme=radical)
 
 ### Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&token=${{ secrets.GH_TOKEN }})
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dcodner24&layout=compact&theme=radical)
 
 ### Connect with Me
 
