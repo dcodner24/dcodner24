@@ -48,7 +48,7 @@ Solutions-savvy MERN stack programmer with a focus in creation/connection to dat
 
 ### Featured Projects
 
-- [Versacarry](https://www.versacarry.com) - Built a custom ecommerce platform for Versacarry's BigCommerce store. Responsibilities included:
+- [Versacarry](https://www.versacarry.com) - Versacarry is a concealed carry holster manufacturer based in Bryan, TX. I built a custom ecommerce platform for their BigCommerce store. Responsibilities included:
   - Building custom APIs and custom forms
   - Database migration from BigCommerce's Catalog V2 to Catalog V3
   - Integrating custom code with BigCommerce dashboard fields and assets
