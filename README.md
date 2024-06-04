@@ -48,6 +48,13 @@ Solutions-savvy MERN stack programmer with a focus in creation/connection to dat
 
 ### Featured Projects
 
-- [Project 1](https://www.yourlivewebsite1.com) - Brief description of Project 1
+- [Versacarry](https://www.versacarry.com) - Built a custom ecommerce platform for Versacarry's BigCommerce store. Responsibilities included:
+  - Building custom APIs and custom forms
+  - Database migration from BigCommerce's Catalog V2 to Catalog V3
+  - Integrating custom code with BigCommerce dashboard fields and assets
+  - Managing all integrations
+  - Building a product photography archive
+  - Creating a company GitHub for version control
+  - Setting up custom workflows for automated deployments in GitHub
 - [Project 2](https://www.yourlivewebsite2.com) - Brief description of Project 2
 - [Project 3](https://www.yourlivewebsite3.com) - Brief description of Project 3
