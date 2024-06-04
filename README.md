@@ -2,7 +2,13 @@
 
 ### About Me
 
-I am a MERN stack developer with experience in:
+Solutions-savvy MERN stack programmer with a focus in creation/connection to databases and backend development. Dedicated to bringing a polished product to the table despite tight timelines through refactoring and additional quality of life features.
+
+- 🔭 I’m currently working on getting my CIPT cybersecurity certification.
+- 🌱 I’m currently learning Next.js and PostgreSQL.
+- 👯 I’m looking to collaborate on projects involving 3D rendering with JavaScript.
+- 💬 Ask me about Custom APIs/Routing.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/david-codner-008483251/)
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,12 +33,6 @@ I am a MERN stack developer with experience in:
 ![BigCommerce](https://img.shields.io/badge/BigCommerce-0A0A0A?style=for-the-badge&logo=bigcommerce&logoColor=white)
 ![WebDAV](https://img.shields.io/badge/WebDAV-0058a3?style=for-the-badge&logo=webdav&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-- 🔭 I’m currently working on getting my CIPT cybersecurity certification.
-- 🌱 I’m currently learning more about 3D rendering with JavaScript.
-- 👯 I’m looking to collaborate on projects involving 3D rendering with JavaScript.
-- 💬 Ask me about Custom APIs/Routing.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/david-codner-008483251/)
 
 ### GitHub Stats
 
