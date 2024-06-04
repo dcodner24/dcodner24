@@ -56,5 +56,5 @@ Solutions-savvy MERN stack programmer with a focus in creation/connection to dat
   - Building a product photography archive
   - Creating a company GitHub for version control
   - Setting up custom workflows for automated deployments in GitHub
-- [Project 2](https://www.yourlivewebsite2.com) - Brief description of Project 2
+- [E-Commerce-Back-End](https://github.com/dcodner24/E-Commerce-Back-End) - An example application showing how platforms like Shopify and Woocommerce work utilizing Express.js and MySQL.
 - [Project 3](https://www.yourlivewebsite3.com) - Brief description of Project 3
