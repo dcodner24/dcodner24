@@ -57,4 +57,4 @@ Solutions-savvy MERN stack programmer with a focus in creation/connection to dat
   - Creating a company GitHub for version control
   - Setting up custom workflows for automated deployments in GitHub
 - [E-Commerce-Back-End](https://github.com/dcodner24/E-Commerce-Back-End) - An example application showing how platforms like Shopify and Woocommerce work utilizing Express.js and MySQL.
-- [Project 3](https://www.yourlivewebsite3.com) - Brief description of Project 3
+- [Social-Network-API](https://github.com/dcodner24/Social-Network-API) - A social network API that uses MongoDB, Express.js, and Node.js to handle large sets of data and user interactions.
