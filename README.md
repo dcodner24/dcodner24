@@ -15,10 +15,6 @@ A solutions-driven developer specializing in database architecture, ERP customiz
 - Expanding expertise in Next.js and PostgreSQL
 - Seeking collaborations on 3D JavaScript rendering projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dcodner24&theme=nord&column=7"/>
-</p>
-
 ## 💻 Technical Expertise
 
 <details open>
