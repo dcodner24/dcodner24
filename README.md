@@ -62,9 +62,6 @@
   <a href="https://www.linkedin.com/in/david-codner-008483251/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/dcodner24">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
 </div>
 
 <div align="center">
