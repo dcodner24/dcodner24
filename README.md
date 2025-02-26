@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=react,html,css,js,git,vscode,linux,xml" />
 </div>
 
-## 🏢 Enterprise Platforms
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
