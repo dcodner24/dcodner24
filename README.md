@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?text=David%20Codner&animation=fadeIn&type=waving&height=100&section=header&customColorList=0,1|22272E,36BCF7"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?text=David%20Codner&animation=fadeIn&type=waving&height=100&theme=nord"/></div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Enterprise+Solutions+Developer;Database+Architect;ERP+Integration+Specialist;Full+Stack+Engineer" alt="Typing SVG" />
