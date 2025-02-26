@@ -1,19 +1,34 @@
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20There!%20👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+</div>
 
 <div align="center">
-  <h1>David Codner</h1>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Specialist;Database+%26+ERP+Engineer;Always+learning+new+things)](https://git.io/typing-svg)
+</div>
+
+<div align="center">
   <h3>Full Stack Developer | MERN Specialist | Database & ERP Engineer</h3>
 </div>
 
 A solutions-driven developer specializing in database architecture, ERP customization, and backend development. Known for delivering polished, scalable solutions while maintaining aggressive timelines through strategic refactoring and enhanced feature implementation.
+
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=dcodner24&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</div>
 
 ## 🚀 Current Endeavors
 - Developing custom Odoo ERP modules and backend integrations
 - Pursuing CIPT (Certified Information Privacy Technologist) certification
 - Expanding expertise in Next.js and PostgreSQL
 - Seeking collaborations on 3D JavaScript rendering projects
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dcodner24&theme=nord&column=7"/>
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,docker,postgres,mongodb,html,css,js,express,graphql" />
+</div>
 
 ## 💻 Technical Expertise
 
@@ -54,17 +69,15 @@ A solutions-driven developer specializing in database architecture, ERP customiz
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 </details>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dcodner24&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dcodner24&theme=calm"/>
-</p>
+<div align="center">
+  <p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dcodner24&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dcodner24&theme=calm"/>
+  </p>
+</div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dcodner24/dcodner24/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dcodner24/dcodner24/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dcodner24/dcodner24/output/github-contribution-grid-snake.svg">
-  </picture>
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
 
 ## 🏆 Featured Projects
@@ -89,6 +102,6 @@ A solutions-driven developer specializing in database architecture, ERP customiz
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-codner-008483251/)
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=dcodner24&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+</div>
