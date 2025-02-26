@@ -35,12 +35,10 @@ Solutions-savvy MERN stack programmer with a focus in creation/connection to dat
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <div align="center">
-  <a href="https://github.com/dcodner24">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=dcodner24&show_icons=true&theme=calm&hide_border=true" />
-  </a>
-  <a href="https://github.com/dcodner24">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcodner24&layout=compact&theme=calm&hide_border=true&card_width=320" />
-  </a>
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=dcodner24&show_icons=true&theme=calm&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcodner24&layout=compact&theme=calm&hide_border=true" alt="Top Languages" />
+  </div>
 </div>
 
 ### Featured Projects
