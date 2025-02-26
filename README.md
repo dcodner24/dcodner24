@@ -57,13 +57,10 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
 </div>
 
-## 📫 Connect
 <div align="center">
   <a href="https://www.linkedin.com/in/david-codner-008483251/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dcodner24&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</div>
+
