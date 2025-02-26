@@ -17,21 +17,13 @@
 ## 🎯 Professional Focus
 - Leading development of custom Odoo ERP modules and integrations
 - Implementing enterprise-level database solutions
-- Architecting scalable backend systems
-- Pursuing advanced certifications in information privacy (CIPT)
+- Pursuing CIPT (Certified Information Privacy Technologist) certification
+- Expanding expertise in Next.js and PostgreSQL
 
 ## 💻 Technical Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker,postgres,mongodb,mysql,graphql" /><br>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,javascript,html,css" />
-</div>
-
-## 🛠 Expertise
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,aws,linux,bash,vim,vscode" /><br>
-  <img src="https://skillicons.dev/icons?i=nginx,redis,kubernetes,jenkins,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,docker,postgres,mongodb,html,css,js,express,graphql" />
 </div>
 
 ## 🏆 Featured Projects
@@ -41,23 +33,29 @@
 
 **Versacarry E-Commerce Platform**
 - Architected custom BigCommerce solution for enterprise-scale operations
-- Implemented robust API integrations and automated workflows
-- Led successful database migration and system optimization initiatives
+- Engineered custom APIs and forms for enhanced user experience
+- Executed successful database migration from Catalog V2 to V3
+- Implemented automated deployment workflows and version control systems
+- Managed third-party integrations and media asset architecture
 </details>
 
 <details open>
 <summary><b>Backend Development</b></summary>
 
 **[E-Commerce Backend Framework](https://github.com/dcodner24/E-Commerce-Back-End)**
-- Engineered scalable e-commerce architecture
-- Implemented comprehensive API endpoint system
-- Developed robust database management solutions
+- Developed demonstration platform showcasing enterprise e-commerce architecture
+- Implemented Express.js and MySQL for robust data management
+- Engineered scalable API endpoints for product and inventory management
 
 **[Social Network API](https://github.com/dcodner24/Social-Network-API)**
-- Designed high-performance MongoDB infrastructure
-- Created scalable user interaction systems
-- Implemented efficient data management protocols
+- Architected MongoDB-based social platform backend
+- Engineered scalable API endpoints for user interaction and data management
+- Implemented Express.js for efficient request handling
 </details>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
+</div>
 
 ## 📫 Connect
 <div align="center">
@@ -67,4 +65,8 @@
   <a href="https://github.com/dcodner24">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dcodner24&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
