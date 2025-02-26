@@ -23,22 +23,16 @@
 ## 💻 Technical Stack
 
 <div align="center">
-  <h4>Core Technologies</h4>
-  <img src="https://skillicons.dev/icons?i=python,react,nodejs,docker,postgres,mongodb" />
+  <!-- First row: Core & Backend -->
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express,graphql,docker,postgres,mongodb,mysql" />
   
-  <h4>Web Development</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,js,express,graphql,nextjs" />
-  
-  <h4>Development Tools</h4>
-  <img src="https://skillicons.dev/icons?i=git,vscode,postman,mysql,bash,linux" />
+  <!-- Second row: Frontend & Tools -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,git,vscode,linux" />
 </div>
 
-## 🛠 Additional Skills
 <div align="center">
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
   <img src="https://img.shields.io/badge/BigCommerce-121118?style=for-the-badge&logo=bigcommerce&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/ERP_Systems-2C5BB4?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/XML-005C5C?style=for-the-badge&logo=xml&logoColor=white" />
 </div>
 
