@@ -22,21 +22,20 @@
 
 ## 💻 Technical Stack
 
-## 💻 Technical Stack
-
 <div align="center">
   <!-- First row: Core & Backend -->
   <img src="https://skillicons.dev/icons?i=python,nodejs,express,graphql,docker,postgres,mongodb,mysql" />
   <br><br>
   <!-- Second row: Frontend & Tools -->
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,git,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,git,vscode,linux,xml" />
 </div>
 
- <br><br>
+## 🏢 Enterprise Platforms
+
 <div align="center">
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
   <img src="https://img.shields.io/badge/BigCommerce-121118?style=for-the-badge&logo=bigcommerce&logoColor=white" />
-  <img src="https://img.shields.io/badge/XML-005C5C?style=for-the-badge&logo=xml&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
 </div>
 
 ## 🏆 Featured Projects
