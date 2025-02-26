@@ -26,10 +26,10 @@
 
 <div align="center">
   <!-- First row: Core & Backend -->
-  <img src="https://skillicons.dev/icons?i=python,nodejs,express,graphql,docker,postgres,mongodb,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express,graphql,docker,postgres,mongodb,mysql" />
   <br><br>
   <!-- Second row: Frontend & Tools -->
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,git,vscode,linux,insomnia" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,git,vscode,linux" />
 </div>
 
  <br><br>
