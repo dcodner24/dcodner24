@@ -34,13 +34,16 @@ Solutions-savvy MERN stack programmer with a focus in creation/connection to dat
 ![WebDAV](https://img.shields.io/badge/WebDAV-0058a3?style=for-the-badge&logo=webdav&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dcodner24&show_icons=true&theme=calm)
-
-### Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dcodner24&layout=compact&theme=calm)
+<table style="border: none;">
+  <tr>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=dcodner24&show_icons=true&theme=calm" />
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcodner24&layout=compact&theme=calm" />
+    </td>
+  </tr>
+</table>
 
 ### Featured Projects
 
