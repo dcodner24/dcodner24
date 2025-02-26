@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Specialist;Database+%26+ERP+Engineer;Always+learning+new+things)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Specialist;Database+%26+ERP+Engineer;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -23,10 +23,6 @@ A solutions-driven developer specializing in database architecture, ERP customiz
 - Seeking collaborations on 3D JavaScript rendering projects
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dcodner24&theme=nord&column=7"/>
-</div>
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=python,react,nodejs,docker,postgres,mongodb,html,css,js,express,graphql" />
 </div>
 
@@ -34,6 +30,7 @@ A solutions-driven developer specializing in database architecture, ERP customiz
 
 <details open>
   <summary><b>Enterprise Solutions</b></summary>
+  <br>
   
   ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -43,6 +40,7 @@ A solutions-driven developer specializing in database architecture, ERP customiz
 
 <details open>
   <summary><b>Frontend Development</b></summary>
+  <br>
   
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -53,6 +51,7 @@ A solutions-driven developer specializing in database architecture, ERP customiz
 
 <details open>
   <summary><b>Backend Development</b></summary>
+  <br>
   
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
@@ -63,6 +62,7 @@ A solutions-driven developer specializing in database architecture, ERP customiz
 
 <details open>
   <summary><b>Development Tools & Methodologies</b></summary>
+  <br>
   
   ![Agile](https://img.shields.io/badge/Agile-000000?style=for-the-badge&logo=agile&logoColor=white)
   ![BigCommerce](https://img.shields.io/badge/BigCommerce-0A0A0A?style=for-the-badge&logo=bigcommerce&logoColor=white)
@@ -70,16 +70,8 @@ A solutions-driven developer specializing in database architecture, ERP customiz
 </details>
 
 <div align="center">
-  <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dcodner24&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dcodner24&theme=calm"/>
-  </p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
 </div>
-
-<div align="center">
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-</div>
-
 ## 🏆 Featured Projects
 
 **Versacarry E-Commerce Platform**
@@ -98,10 +90,3 @@ A solutions-driven developer specializing in database architecture, ERP customiz
 - Architected MongoDB-based social platform backend
 - Engineered scalable API endpoints for user interaction and data management
 - Implemented Express.js for efficient request handling
-
-## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-codner-008483251/)
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dcodner24&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</div>
