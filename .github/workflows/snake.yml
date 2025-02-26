@@ -16,7 +16,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: dcodner24
-          from: "last-year"  # This will show contributions from the last year
+          from: "1-year-ago"  # This will show contributions from 365 days ago to today
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
