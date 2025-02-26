@@ -57,10 +57,3 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/david-codner-008483251/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</div>
-
-
