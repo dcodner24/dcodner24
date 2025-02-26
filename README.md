@@ -8,7 +8,7 @@ Solutions-savvy MERN stack programmer with a focus in creation/connection to dat
 - 🌱 I’m currently learning Next.js and PostgreSQL.
 - 👯 I’m looking to collaborate on projects involving 3D rendering with JavaScript.
 - 💬 Ask me about Custom APIs/Routing.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/david-codner-008483251/)
+- 📫 Let's Connect: [LinkedIn](https://www.linkedin.com/in/david-codner-008483251/)
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,15 +36,11 @@ Solutions-savvy MERN stack programmer with a focus in creation/connection to dat
 
 ### GitHub Stats
 
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dcodner24&show_icons=true&theme=calm)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dcodner24&show_icons=true&theme=calm)
 
 ### Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dcodner24&layout=compact&theme=calm)
-
-### Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-codner-008483251/)
 
 ### Featured Projects
 
