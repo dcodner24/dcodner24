@@ -36,7 +36,7 @@ Solutions-savvy MERN stack programmer with a focus in creation/connection to dat
 
 <div align="center">
   <div>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcodner24&layout=compact&theme=calm&hide_border=true" alt="Top Languages" /> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcodner24&layout=compact&theme=calm&hide_border=true" alt="Top Languages" /> &nbsp;&nbsp;&nbsp;
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dcodner24&show_icons=true&theme=calm&hide_border=true" alt="GitHub Stats" />
   </div>
 </div>
