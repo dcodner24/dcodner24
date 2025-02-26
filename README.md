@@ -22,14 +22,17 @@
 
 ## 💻 Technical Stack
 
+## 💻 Technical Stack
+
 <div align="center">
   <!-- First row: Core & Backend -->
-  <img src="https://skillicons.dev/icons?i=python,nodejs,express,graphql,docker,postgres,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express,graphql,docker,postgres,mongodb,mysql,redis" />
   <br><br>
   <!-- Second row: Frontend & Tools -->
   <img src="https://skillicons.dev/icons?i=react,html,css,js,git,vscode,linux,insomnia" />
 </div>
 
+ <br><br>
 <div align="center">
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
   <img src="https://img.shields.io/badge/BigCommerce-121118?style=for-the-badge&logo=bigcommerce&logoColor=white" />
